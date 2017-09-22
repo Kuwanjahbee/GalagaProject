@@ -73,3 +73,5 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+GalagaClone/Content/StarterContent/
+GalagaClone/Intermediate/Config/CoalescedSourceConfigs/Paper2D.ini
